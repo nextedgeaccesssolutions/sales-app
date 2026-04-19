@@ -1,2 +1,2 @@
-# sales-app
-sales app
+# Infi-creator
+Infi creator
